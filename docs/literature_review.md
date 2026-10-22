@@ -10,7 +10,7 @@
 
 | STT | Tác giả, năm | Tên bài báo | Dữ liệu | Phương pháp | Kết quả chính | Hạn chế | DOI/URL |
 |---|---|---|---|---|---|---|---|
-| 1 | Chưa điền | Chưa điền | Chưa xác minh | Chưa xác minh | Chưa xác minh | Chưa xác minh | Chưa điền |
+| 1 | Obasi & Benson (2023) | Evaluating the effectiveness of machine learning techniques in forecasting the severity of traffic accidents | Dữ liệu tai nạn và phương tiện tại Anh, 2005–2014; 2.047.256 bản ghi tai nạn | Random Forest, Logistic Regression, Naive Bayes, Artificial Neural Network | Random Forest và Logistic Regression đạt Accuracy 87%; Naive Bayes và ANN đạt 80% | Nghiên cứu dùng dữ liệu tại Anh và gộp 3 mức độ thành 2 lớp; cần kiểm tra khả năng áp dụng cho bộ dữ liệu US Accidents của nhóm | [DOI](https://doi.org/10.1016/j.heliyon.2023.e18812) |
 | 2 | Chưa điền | Chưa điền | Chưa xác minh | Chưa xác minh | Chưa xác minh | Chưa xác minh | Chưa điền |
 | 3 | Chưa điền | Chưa điền | Chưa xác minh | Chưa xác minh | Chưa xác minh | Chưa xác minh | Chưa điền |
 | 4 | Chưa điền | Chưa điền | Chưa xác minh | Chưa xác minh | Chưa xác minh | Chưa xác minh | Chưa điền |
